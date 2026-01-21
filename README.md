@@ -24,7 +24,7 @@ The focus is not only on prediction accuracy but also on interpretability and re
 
 Dataset Name: Superstore Sales Dataset
 
-Source: Kaggle
+Source: [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 Description:
 The dataset contains historical retail transactions including order dates, sales, profit, quantity, customer segment, region, and product details.
